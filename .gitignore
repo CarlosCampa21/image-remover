@@ -1,0 +1,15 @@
+# Ignorar variables reales
+.env
+
+# Ignorar carpetas con imágenes
+no_albahaca sin fondo/
+no_albahaca_sin_fondo_resultado/
+no_albahaca procesadas/
+
+# Ignorar imágenes sueltas
+*.png
+*.jpg
+*.jpeg
+
+# Cache de Python
+__pycache__/
