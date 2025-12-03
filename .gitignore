@@ -13,3 +13,6 @@ no_albahaca procesadas/
 
 # Cache de Python
 __pycache__/
+
+# Archivos de macOS
+.DS_Store
